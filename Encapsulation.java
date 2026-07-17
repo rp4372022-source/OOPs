@@ -1,4 +1,4 @@
-// Bundling data toghether and preventing external access
+// Bundling data toghether and preventing direct access
 class BankAccount{
     private String name;
     private String accountNum;
